@@ -1,0 +1,1 @@
+DROP INDEX `applicants_table_email_unique`;

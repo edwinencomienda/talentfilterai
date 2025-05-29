@@ -1,0 +1,1 @@
+ALTER TABLE `applicants_table` ADD `meta` text;

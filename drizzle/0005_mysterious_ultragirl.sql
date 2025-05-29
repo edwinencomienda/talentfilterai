@@ -1,0 +1,1 @@
+ALTER TABLE `jobs_table` ADD `status` text DEFAULT 'pending';
